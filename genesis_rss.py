@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from html import escape
 
 URL = "https://www.energy.gov/undersecretaryforscience/genesis-mission/listings/genesis-mission-news"
 
@@ -9,6 +10,7 @@ def fetch_news():
     soup = BeautifulSoup(res.text, "html.parser")
 
     items = []
+    seen = set()
 
     for a in soup.select("a"):
         title = a.get_text(strip=True)
@@ -28,6 +30,10 @@ def fetch_news():
         if "energy.gov" not in link:
             continue
 
+        if link in seen:
+            continue
+        seen.add(link)
+
         items.append({
             "title": title,
             "link": link,
@@ -42,22 +48,23 @@ def generate_rss(items):
     for item in items:
         rss_items += f"""
         <item>
-            <title>{item['title']}</title>
-            <link>{item['link']}</link>
+            <title>{escape(item['title'])}</title>
+            <link>{escape(item['link'])}</link>
+            <guid>{escape(item['link'])}</guid>
             <pubDate>{item['date']}</pubDate>
         </item>
         """
 
     return f"""<?xml version="1.0" encoding="UTF-8" ?>
-    <rss version="2.0">
-    <channel>
-        <title>Genesis Mission News</title>
-        <link>{URL}</link>
-        <description>DOE Genesis Mission News</description>
-        {rss_items}
-    </channel>
-    </rss>
-    """
+<rss version="2.0">
+<channel>
+    <title>Genesis Mission News</title>
+    <link>{escape(URL)}</link>
+    <description>DOE Genesis Mission News</description>
+    {rss_items}
+</channel>
+</rss>
+"""
 
 
 if __name__ == "__main__":

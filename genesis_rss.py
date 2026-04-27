@@ -39,7 +39,13 @@ def fetch_news():
             "link": link,
             "date": datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
         })
-
+        
+    items.insert(0, {
+        "title": "TEST Genesis Mission News Notification",
+        "link": "https://www.energy.gov/test-genesis-news-notification",
+        "date": datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
+    })
+    
     return items[:20]
 
 

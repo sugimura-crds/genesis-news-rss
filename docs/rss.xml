@@ -1,130 +1,149 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-    <rss version="2.0">
-    <channel>
-        <title>Genesis Mission News</title>
-        <link>https://www.energy.gov/undersecretaryforscience/genesis-mission/listings/genesis-mission-news</link>
-        <description>DOE Genesis Mission News</description>
-        
+<rss version="2.0">
+<channel>
+    <title>Genesis Mission News</title>
+    <link>https://www.energy.gov/undersecretaryforscience/genesis-mission/listings/genesis-mission-news</link>
+    <description>DOE Genesis Mission News</description>
+    
         <item>
-            <title>View all Policy & Priorities</title>
+            <title>View all Policy &amp; Priorities</title>
             <link>https://www.energy.gov/topics/priorities</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/priorities</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Increase American Energy ProductionExpanding domestic energy resources to support national needs and economic growth.</title>
             <link>https://www.energy.gov/topics/increase-american-energy-production</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/increase-american-energy-production</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Energy InnovationDriving research and development to shape the future of energy systems and technologies.</title>
             <link>https://www.energy.gov/topics/energy-innovation-0</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/energy-innovation-0</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Energy ExportsSupporting global energy markets through U.S. energy production and trade.</title>
             <link>https://www.energy.gov/topics/energy-exports</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/energy-exports</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Affordable Energy for ConsumersPromoting access to reliable and cost-effective energy for households and businesses.</title>
             <link>https://www.energy.gov/topics/affordable-energy-consumers</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/affordable-energy-consumers</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Strategic Petroleum Reserve (SPR)Managing emergency fuel reserves to support national energy security.</title>
             <link>https://www.energy.gov/topics/strategic-petroleum-reserve-spr</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/strategic-petroleum-reserve-spr</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Nuclear SecurityMaintaining the safety, security, and effectiveness of the nation’s nuclear deterrent.</title>
             <link>https://www.energy.gov/topics/nuclear-security-0</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/nuclear-security-0</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Nuclear EnergyAdvancing nuclear technologies to support energy, security, and innovation goals.</title>
             <link>https://www.energy.gov/topics/nuclear-energy-0</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/nuclear-energy-0</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Energy ReliabilityEnsuring consistent and dependable energy delivery across the nation.</title>
             <link>https://www.energy.gov/topics/energy-reliability</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/energy-reliability</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Energy InfrastructureStrengthening and modernizing the systems that produce, deliver, and store energy.</title>
             <link>https://www.energy.gov/topics/energy-infrastructure</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/topics/energy-infrastructure</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
-            <title>View all Leadership & Organization</title>
+            <title>View all Leadership &amp; Organization</title>
             <link>https://www.energy.gov/leadership-organization</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/leadership-organization</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Chris WrightSecretary of Energy</title>
             <link>https://www.energy.gov/person/chris-wright</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/person/chris-wright</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>James DanlyDeputy Secretary of Energy</title>
             <link>https://www.energy.gov/person/james-danly</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/person/james-danly</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Staff OfficesSupporting DOE operations through policy, administration, and mission services.</title>
             <link>https://www.energy.gov/staff-offices</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/staff-offices</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Science and Innovation Program OfficesLeading scientific research and technology development across priority areas.</title>
             <link>https://www.energy.gov/science-and-innovation-program-offices</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/science-and-innovation-program-offices</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Independent OfficesProviding oversight and specialized functions across key areas of the Department.</title>
             <link>https://www.energy.gov/independent-offices</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/independent-offices</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Energy Program OfficesManaging programs that support energy production, efficiency, and delivery.</title>
             <link>https://www.energy.gov/energy-program-offices</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/energy-program-offices</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>National LaboratoriesAdvancing research and innovation through DOE’s National Laboratory System.</title>
             <link>https://www.energy.gov/national-laboratories</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/national-laboratories</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Nuclear Security OfficesOverseeing national security efforts related to nuclear safety and defense.</title>
             <link>https://www.energy.gov/nnsa/national-nuclear-security-administration</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/nnsa/national-nuclear-security-administration</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
         <item>
             <title>Hydrocarbons and Geothermal Energy Office</title>
             <link>https://www.energy.gov/hgeo/hydrocarbons-and-geothermal-energy-office</link>
-            <pubDate>Mon, 27 Apr 2026 05:46:08 GMT</pubDate>
+            <guid>https://www.energy.gov/hgeo/hydrocarbons-and-geothermal-energy-office</guid>
+            <pubDate>Mon, 27 Apr 2026 06:01:32 GMT</pubDate>
         </item>
         
-    </channel>
-    </rss>
-    
+</channel>
+</rss>
